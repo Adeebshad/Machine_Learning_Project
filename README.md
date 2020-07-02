@@ -12,6 +12,9 @@ Several libraries are needed to be installed for training to work. I will assume
 Install PyTorch if you haven't already.And also install all libraries mentioned in requirements.txt
 
 If you want to setup from this repository then run bellow command:
+``` bash
+git clone https://github.com/Adeebshad/Machine_Learning_Project.git
+```
 
 Finaly run the following command to ensure that everything is being installed correctly.
 ```bash
